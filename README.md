@@ -1,6 +1,6 @@
 # Descripción
 
-El archivo `data/shipping-data.csv` contiene información sobre los envios de productos de una empresa. Cree un dashboard estático en HTML que permita visualizar los siguientes campos:
+El archivo `data/shipping-data.csv` contiene infor mación sobre los envios de productos de una empresa. Cree un dashboard estático en HTML que permita visualizar los siguientes campos:
 
 * `Warehouse_block`
 
